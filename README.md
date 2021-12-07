@@ -4,7 +4,7 @@
 ### WARNING!: Please be cautious when flashing the PSP-3000 using CIPL Flasher. Make sure you are using the correct version for the firmware installed on your PSP. You will need to run the flasher again whenever the PSP-3000 doesn't recognise Homebrew Apps.
 
 ## More Information:
-https://pspsdk.fandom.com/wiki/Homebrew_Programming_in_PYTHON
-https://code.google.com/archive/p/pspstacklesspython/downloads
+PSPSDK Fandom Wiki: https://pspsdk.fandom.com/wiki/Homebrew_Programming_in_PYTHON \
+Google Code Archive: https://code.google.com/archive/p/pspstacklesspython/downloads
 
 ![screenshot](https://github.com/TheMindVirus/pspy/blob/main/screenshot.png)
