@@ -1,0 +1,25 @@
+-------------- Python-PSP started Tue Dec  7 01:23:44 2021
+
+Free memory: 719872
+PyPSP running in: ms0:/PSP/GAME/Python
+Search path: python.zip;ms0:/PSP/GAME/lib/python21.zip;ms0:/PSP/GAME/Python/python/site-packages;ms0:/PSP/GAME/Python/python
+
+  File "script.py", line 27
+    def clear_screen(r = 30, g = 0, b = 255)
+                                           ^
+SyntaxError: invalid syntax
+--------------------------------------------------------------------------------
+-------------- Python-PSP started Tue Dec  7 01:26:27 2021
+
+Free memory: 719872
+PyPSP running in: ms0:/PSP/GAME/Python
+Search path: python.zip;ms0:/PSP/GAME/lib/python21.zip;ms0:/PSP/GAME/Python/python/site-packages;ms0:/PSP/GAME/Python/python
+
+--------------------------------------------------------------------------------
+-------------- Python-PSP started Tue Dec  7 01:32:52 2021
+
+Free memory: 719872
+PyPSP running in: ms0:/PSP/GAME/Python
+Search path: python.zip;ms0:/PSP/GAME/lib/python21.zip;ms0:/PSP/GAME/Python/python/site-packages;ms0:/PSP/GAME/Python/python
+
+--------------------------------------------------------------------------------
